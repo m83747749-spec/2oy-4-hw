@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 50px;
+}
+.qizil{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.qizil h2{
+    color: white;
+    font-size: 40px;
+}
+
